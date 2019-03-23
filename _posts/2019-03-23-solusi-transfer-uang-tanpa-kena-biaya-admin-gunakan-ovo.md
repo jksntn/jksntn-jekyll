@@ -4,6 +4,7 @@ title: 'Solusi Transfer Uang Tanpa Kena Biaya Admin, Gunakan OVO'
 author: john_doe
 date: '2019-02-28 15:02:03'
 intro_paragraph: "*Demi kenyamanan, tips ini mungkin berlaku hanya sementara (awal Tahun 2019), karena mungkin beberapa bulan atau tahun depan tips ini tidak berlaku lagi karena perubahan terms and condition OVO atau bank.*\r\n\r\n*Dan saya tidak dibayar oleh OVO atas tulisan ini* \U0001F60C\r"
+categories: tips
 ---
 
 
@@ -23,5 +24,3 @@ Cara ini kamu bisa implementasikan juga untuk bisnis onlinemu, kamu tinggal memi
 ✋ **Perhatian!** Dengan kamu mengirimkan data diri, harap diperhatikan bahwa data privasi kamu sudah tercatat di OVO, apabila kamu termasuk orang yang consent terhadap hal ini, silakan tidak menggunakan OVO sama sekali 👌.
 
 Semoga Bermanfaat 👋.
-
-#tips #fintech
